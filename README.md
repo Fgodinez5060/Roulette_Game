@@ -4,9 +4,6 @@
 **Course:** SWE-450 Embedded Systems  
 **Date:** April 2026
 
-## GitHub Repo
-https://github.com/Fgodinez5060/SWE-450_Milestone
-
 ## Project Description
 This project implements a roulette game on the DE-10 Standard board using the ARM HPS processor and FPGA fabric. Players use physical switches to select bet types and amounts, LEDs visualize the spinning roulette wheel, HEX displays show the current balance in real-time, the built-in 128x64 LCD displays game instructions and results, and push buttons control the game flow.
 
